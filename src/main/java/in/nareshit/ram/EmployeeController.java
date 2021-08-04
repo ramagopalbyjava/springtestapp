@@ -11,6 +11,8 @@ public class EmployeeController {
 	@RequestMapping(value = "/show", method = RequestMethod.GET)
 	public String showHome() {
 	
-	return "EmployeeHome";
+	return "EmployeeHomePage";
+	
 	}
+	
 }
