@@ -1,0 +1,6 @@
+public class addtion{
+public static viod main(String[] args){
+int a=15;
+int b=12;
+int c=a+b;
+System.out.pringln()c;
